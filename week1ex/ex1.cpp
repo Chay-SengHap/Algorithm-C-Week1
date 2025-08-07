@@ -1,0 +1,13 @@
+#include <iostream>
+
+
+using namespace std;
+
+int main(){
+    int age;
+    cout<<"Enter Your Name :";cin>>age;
+    cout<<"You are "<< age <<" years old"<<endl;
+
+    return 0;
+
+}
